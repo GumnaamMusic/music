@@ -81,17 +81,17 @@
       },
       "OWNER_USERNAME": {
          "description": "Your Telegram username without the @",
-         "value": "FabinoXD"
+         "value": "Anonmous_XD"
       },
       "SUPPORT_CHAT": {
          "description": "The Telegram Support Group Where Users of your Bot can Go and ask their Questions.",
          "required": true,
-         "value": "SOFIASUPPORT"
+         "value": "Super_Star_Singing_Group"
       },
      "UPDATES_CHANNEL": {
          "description": "The Telegram News/Update Channel Where Users of your Bot can Go and check updates by you.",
          "required": true,
-         "value": "SOFIA_X_UPDATES"
+         "value": "StarbotUpdate"
       },     
       "EVENT_LOGS": {
          "description": "Event logs CHANNEL to note down important bot level events, recommend to make this public. ex: '-123456'",
@@ -164,7 +164,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://t.me/FabinoXD"
+         "value": "https://t.me/StarbotUpdate"
       },
       "MONGO_DB_URL": {
          "description": "Your Mongo DB URI",
